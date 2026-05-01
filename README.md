@@ -125,7 +125,7 @@ This portfolio draws from and references:
 - AI/ML product documentation
 - Technical blog content
 
-**Contact:** [your-email@example.com]
+**Contact:** [mafuse214@gmail.com]
 
 ---
 
